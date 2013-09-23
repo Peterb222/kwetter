@@ -1,4 +1,4 @@
-package kwetter.domain;
+package domain;
 
 import java.util.ArrayList;
 import java.util.Collection;

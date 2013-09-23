@@ -1,6 +1,6 @@
 package dao;
 
-import kwetter.domain.User;
+import domain.User;
 import java.util.List;
 
 public interface UserDAO {

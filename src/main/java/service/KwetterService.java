@@ -1,12 +1,12 @@
-package kwetter.service;
+package service;
 
 
 import java.util.Date;
 import java.util.List;
-import kwetter.dao.UserDAO;
-import kwetter.dao.UserDAOCollectionImpl;
-import kwetter.domain.Tweet;
-import kwetter.domain.User;
+import dao.UserDAO;
+import dao.UserDAOCollectionImpl;
+import domain.Tweet;
+import domain.User;
 //import javax.ejb.Stateless;
 
 //@Stateless
